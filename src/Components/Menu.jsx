@@ -26,7 +26,7 @@ function Menu() {
             to="/">
             <img
               className="logo"
-              src="/asset/images/logo_menu.png"
+              src="./asset/images/logo_menu.png"
               alt="logo"
             />
           </Link>
