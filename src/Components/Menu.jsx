@@ -81,7 +81,7 @@ function Menu() {
               <button
                 type="submit"
                 className="search_icon">
-                <i className="fas fa-searc"></i>
+                <i className="fas fa-search"></i>
               </button>
             </form>
           </div>
